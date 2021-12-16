@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0qactE3VXWhxObg14J89S9QoA3zYuHgWE6aQbdLyO7pvGQdliYYCNUoVPaZG4FZIf+ue5PO3nD0j8D6oHp1rQ==",
+  "success": true,
+  "projectFilePath": "/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/WebAPI/WebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaroslaw/.nuget/packages/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/Users/jaroslaw/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

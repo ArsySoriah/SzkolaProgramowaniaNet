@@ -1,0 +1,5 @@
+/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/jaroslaw/Desktop/Programming/SzkolaNET/BloggerApplication/Blogger/Domain/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
